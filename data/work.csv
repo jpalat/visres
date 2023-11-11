@@ -1,23 +1,23 @@
-name,position,startDate,endDate,summary,url,location
+name,position,startDate,endDate,summary,url,location,size
 mpathic,Head of AI/ML,2023-08-31,,"Accurate understanding starts with empathy. As industry leaders, we're at the forefront of actionable conversation analytics. mpathic’s API powers SaaS platforms with real-time conversation analytics, training and suggestions, improving outcomes in healthcare and client services. With over a decade of scientific validation, mpathic's proprietary ML models deliver unmatched accuracy, enabling the detection, correction, and enhancement of over 90 human behaviors with the accuracy of human doctors.
 
 As Head of AI/ML
 I am focused on developing and executing a comprehensive product strategy for mpathic's AI-powered platform.
 Integrating state-of-the-art machine learning and AI technologies into mpathic's products with leading practices in MLOps and AI Engineering.
 Represent mpathic's technical expertise  
-Align product success with key customer and industry metrics, ensuring the value proposition resonates with target audiences.",https://www.linkedin.com/company/mpathic-ai/,"Pittsburgh, Pennsylvania, United States"
+Align product success with key customer and industry metrics, ensuring the value proposition resonates with target audiences.",https://www.linkedin.com/company/mpathic-ai/,"Pittsburgh, Pennsylvania, United States",20
 QOELabs,Principal,2016-08-31,,"I grow engineering teams with technical / architectural leadership, leading practices, education, and management augmentation.
 - Fractional Head of ML/AI
 - Rebuilt engineering team for a strategy and design consultancy, improving process and hiring new engineering leadership.
 - Re-architected and implemented backend service for a microgrid monitoring and predictive service for a research IoT company including reporting dashboards and API design.
 - Architected and implemented a mobile platform for mental health assessments deployed to clinics for evaluation.  The platform reduced evaluation from weeks to minutes and increased the assessments from 10 patients per month to 10s of patients per day.
-- Software architecture and planning for medical IoT device startup.",,Greater Pittsburgh Area
+- Software architecture and planning for medical IoT device startup.",,Greater Pittsburgh Area,1
 Software Engineering Institute | Carnegie Mellon University,Technical Director AI for Mission,2022-02-28,2023-04-30,"* Drove strategic and technical direction for a portfolio focused on testing AI Engineering practices on safety and mission critical applications.  Applications include computer vision, data imputation tools and autonomy testing for the US DoD.  
 * Led and Managed 7 managers with 40 direct reports.  Responsibilities include hiring, on-boarding and career path development for engineers and researchers.
 * Led the development, deployment and testing of an edge-deployed pipeline for data collection, labeling and model training for a robust computer vision threat detection system.  Deployed with the US Army at a field exercise in Yuma, Arizona, reducing retraining from 2 weeks to 4 hours.
 * Grew the team by interviewing candidates including executives, engineers, designers and researchers.
 * Briefed customers at Executive level leadership on AI techniques, technology, and engineering principles. 
-* Experienced public speaker, delivering lectures and presentations to technical audiences including the Carnegie Mellon School of Engineering, NASA, Air Force Research Labs and Army Futures Command.",https://www.linkedin.com/company/software-engineering-institute/,"Pittsburgh, Pennsylvania, United States"
+* Experienced public speaker, delivering lectures and presentations to technical audiences including the Carnegie Mellon School of Engineering, NASA, Air Force Research Labs and Army Futures Command.",https://www.linkedin.com/company/software-engineering-institute/,"Pittsburgh, Pennsylvania, United States",450
 Software Engineering Institute | Carnegie Mellon University,Senior Engineer,2018-12-31,2023-04-30,"Lead engineer for several AI/ML Projects 
 Developed python  data tools for extracting emotional data from voice recordings.
 Development of an object detection for Autonomous robot systems.
@@ -27,7 +27,7 @@ Developed roadmaps for infrastructure including budget, stakeholder acceptance a
 Presented research and represented SEI to customers, guests, and executives.
 Recruiting representative at conferences and formal events.
 Interviewed candidates from entry level to executive level.
-Improved interview experience and practices for engineering candidates.",https://www.linkedin.com/company/software-engineering-institute/,Greater Pittsburgh Area
+Improved interview experience and practices for engineering candidates.",https://www.linkedin.com/company/software-engineering-institute/,Greater Pittsburgh Area,450
 Rhiza Labs,Director of Engineering,2014-08-31,2016-08-31,"Direct responsibility for Software Engineering, Quality Assurance, and Operations teams
 Drive on-time development of products through release
 Accountable for technology direction, leadership and management for Product Development
@@ -36,10 +36,10 @@ Created and developed hiring processes for Ops, QA and Product Management
 Interim Product Manager
 Day-to-day management of Support
 Created professional development plans for Engineering, Project Management, QA and Ops.
-Managed the footprint, cost and growth of cloud based infrastructure in AWS.",https://www.linkedin.com/company/rhiza-labs/,
+Managed the footprint, cost and growth of cloud based infrastructure in AWS.",https://www.linkedin.com/company/rhiza-labs/,,30
 Thinkering,Partner,2014-01-31,2016-06-30,"2nd Place Winners of the Steel City Code Fest.
 Mobile and Web Application Consulting and Development
-Network and Infrastructure Management",,Greater Pittsburgh Area
+Network and Infrastructure Management",,Greater Pittsburgh Area,5
 UPMC Technology Development Center,Software Engineering Lead,2011-11-30,2014-08-31,"Successfully delivered six Mobile Application releases on 2 platforms including:
   - Private group messaging application for Trauma teams on iOS and Android.
   - UPMC Physician Search App with quick dial for transfers to UPMC. 
@@ -47,16 +47,16 @@ UPMC Technology Development Center,Software Engineering Lead,2011-11-30,2014-08-
   - Clinical work flow tool for operationalizing evidence based medicine
 Lead Strategy team for Mobile Application development within UPMC working with VPs and executives across divisions to develop a strategy for Mobile application development and procurement.
 Built up development team from 2 to 6 developers integrating best practices in an Agile (Scrum) development team including Continuous Integration, Unit and Acceptance tests for all platforms supported.
-Represented development organization to Process Leadership team including CMMI certification prep, process improvement, documentation and review.",,
+Represented development organization to Process Leadership team including CMMI certification prep, process improvement, documentation and review.",,,100000
 University of Pittsburgh,Adjunct Professor,2014-01-31,2014-04-30,"Course instructor for INFSCI 1073/ TELCOM 2727: Mobile Application Development.
 
-Teaching iOS and HTML5 Application development.",,School of Information Science.
+Teaching iOS and HTML5 Application development.",,School of Information Science.,10000
 Celerity Innovation Center,Mobile Solutions Architect / Infrastructure Lead,2011-02-28,2011-11-30,"Developed proof of concept iOS Applications for iPad and iPhone
 Developed packaging, build, deployment and monitoring scripts for Enterprise applications using Maven, Bash, Python and WebSphere Application Server
 Wrote and documented deployment procedures and scripts for test and production environments.
 Maintained infrastructure components including Altassian Bamboo, SVN, Tomcat & WebSphere Application Server
 Migrated SVN to Git.
-Developed and maintained Virtual Machines for Xen and Parallels",,
+Developed and maintained Virtual Machines for Xen and Parallels",,,1000
 ModCloth,Sr. Software Architect / Systems Technology Manager,2010-05-31,2011-02-28,"* Architect for Blue Cherry ERP migration, developed migration software in Ruby, lead design reviews and coordinated rollout events.
    * Created infrastructure to support rollout of the new ERP system.
    * Collaborated with stakeholders in different departments including Finance, Designer Relations, Receiving and Shipping. 
@@ -64,7 +64,7 @@ ModCloth,Sr. Software Architect / Systems Technology Manager,2010-05-31,2011-02-
    * Developed vision, road map, hiring plan and integration plan for a new Quality Assurance organization to support E-commerce and Systems. 
    * Product Manager for Infrastructure and Intelligence Team created road map for  Data Warehouse and Business Intelligence. 
    * Lead efforts to create Disaster Recovery Plan for the Technology organization as part Audit remediation.
-   * Administered EC2 instances for Analytics team.  Evaluated hosting solutions between traditional hosting and cloud (EC2 and Joyent).",https://www.linkedin.com/company/modcloth_3/,
+   * Administered EC2 instances for Analytics team.  Evaluated hosting solutions between traditional hosting and cloud (EC2 and Joyent).",https://www.linkedin.com/company/modcloth_3/,,200
 IBM,Certified Consulting IT Specialist,2007-09-30,2010-04-30,"* Technical lead for several large web applications including the IBM.com Support Portal defining architecture, developing coding standards and guidelines, initiating and leading conversations between customers, management, development, test and operations.
 * Drive projects to success by engaging with the customers at every level including Technical Staff, Management and Executive Management.
 * Lead architecture and development teams with sizes ranging from 3-30 seated locally, nationally and internationally.
@@ -77,20 +77,20 @@ Provided architectural designs and reviews for customers, partners and internal 
 * Developed applications based on Open Source technology including LAMP(PHP), Perl, and Python.
 * Mentor peers and junior employees on new technology and project practices. Coach Agile Development techniques to developers and management, leading Agile adoption for the team.
 * Developed and taught classes on PHP, Virtualization (VMWare and Xen) and Agile Development at WebSphere Services Technical Conference.
-* Member of the Software Group Architecture Board, Global e-Transformation Architecture Board and IT Specialist Certification Board.  Represented IBM as an Ambassador for Carnegie Mellon University.",https://www.linkedin.com/company/ibm/,
+* Member of the Software Group Architecture Board, Global e-Transformation Architecture Board and IT Specialist Certification Board.  Represented IBM as an Ambassador for Carnegie Mellon University.",https://www.linkedin.com/company/ibm/,,300000
 IBM,Certified Senior IT Specialist,2005-06-30,2007-09-30,"* Architected solution for an IT Security Compliance and Automation tool that maintains compliance data for over 42,000 systems in 32 countries.
 * Provided architectural designs and reviews for customers, partners and internal clients for enterprise and web-based applications on WebSphere.
 * Developed Governance and Architecture for a system to allow 3rd party applications to be integrated into the IBM Support Portal.
 * Led a cross-brand extended architecture team with architects from Software Product Development, the Global eTransformation Group and the CIO's Office.
 * Successfully managed multiple engagements concurrently while delivering quality results on time.
 * Developed a variety of Portal solutions using a mix of technologies integrating J2EE with XML/XSLT, STRUTS, JSR168, and JSR286.
-* Mentor peers and junior employees on new technology and project practices. Coach Agile Development techniques to developers and management, leading Agile adoption for the team.",https://www.linkedin.com/company/ibm/,
+* Mentor peers and junior employees on new technology and project practices. Coach Agile Development techniques to developers and management, leading Agile adoption for the team.",https://www.linkedin.com/company/ibm/,,300000
 IBM,Staff Software Engineer : WebSphere Development,2002-06-01,2005-06-30,"* Developed and implemented aggressive test plans for WebSphere Edge Server Proxy.
 * Designed and implemented automation tools in Java and Perl.
-* Supported the Documentation team by explaining new features and reviewing documentation for technical accuracy and product usability.",https://www.linkedin.com/company/ibm/,
+* Supported the Documentation team by explaining new features and reviewing documentation for technical accuracy and product usability.",https://www.linkedin.com/company/ibm/,,300000
 IBM,Staff Software Engineer : WebSphere Development,2000-09-30,2002-05-31,"* Developed and implemented aggressive test plans for WebSphere Edge Server Proxy.
 * Designed and implemented automation tools in Java and Perl.
-* Supported the Documentation team by explaining new features and reviewing documentation for technical accuracy and product usability.",https://www.linkedin.com/company/ibm/,
+* Supported the Documentation team by explaining new features and reviewing documentation for technical accuracy and product usability.",https://www.linkedin.com/company/ibm/,,300000
 H2 Design Group,Systems Engineer,1998-05-31,2000-08-31,"* Developed a variety of applications on Linux, Apache, Zeus Webserver, Mysql, PHP and Perl.
 * Architected, deployed and maintained a web hosting facility composed of IRIX, Linux, Solaris and Windows servers running web servers (Zeus, Apache and IIS), database servers (MySQL and mSQL), mail(Sendmail), and DNS (BIND) supporting 25 Fortune 500 companies.
-* Coordinated construction and networking contractors to deliver telephone and data network capabilities for the new H2 office.",,
+* Coordinated construction and networking contractors to deliver telephone and data network capabilities for the new H2 office.",,,15
